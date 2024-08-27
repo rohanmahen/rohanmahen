@@ -8,5 +8,5 @@ I build enterprise AI products from 9-5 and SaaS indie projects from 5-9. I'm a 
 - [**youshouldworkwith.com**](https://youshouldworkwith.com) - Showcase 4 people you think other people should work with (Jan 2024).
 - [**mahendraker.com**](https://mahendraker.com) - My personal blog and portfolio site (Nov 2023)
 
-### 🌐 More About Me
+### 🌐 About Me
 Check out my [personal site](https://www.mahendraker.com/) for more on my work, projects, and thoughts.
