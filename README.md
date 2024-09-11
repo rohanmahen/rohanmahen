@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Rohan Mahendraker
 
-I build enterprise AI products from 9-5 and SaaS indie projects from 5-9. I'm a self-taught fullstack software engineer, former nightlife operator, frequent Product Hunter, and have a BSc. in Accounting & Finance.
+I build enterprise AI products from 9-5 and SaaS indie projects from 5-9. I'm a self-taught fullstack software engineer, former nightlife operator, frequent Product Hunter, and I have a BSc. in Accounting & Finance.
 
 ### 🚀 In the last 12 months I've shipped
 - [**timebox.so**](https://timebox.so) - Cal Newport inspired deep work planner (July 2024). (#7 on ProductHunt, $526 LTM)
