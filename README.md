@@ -2,7 +2,7 @@
 
 I build enterprise AI products and SaaS indie projects. I'm a self-taught fullstack software engineer, former nightlife operator, frequent Product Hunter, and I have a BSc. in Accounting & Finance. 
 
-### So far I've shipped 
+### In my spare time I've shipped 
 
 - [**toptextbooks.com**](https://toptextbooks.com) - Top textbooks to get ahead in any field (Launching soon! 🚀)
 - [**timebox.so**](https://timebox.so) - Cal Newport inspired deep work planner (July 2024). (#7 on ProductHunt, $1.1K LTM)
