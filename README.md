@@ -7,7 +7,7 @@ I build enterprise AI products and SaaS indie projects. I'm a self-taught fullst
 - [**toptextbooks.com**](https://toptextbooks.com) - Top textbooks to get ahead in any field (Launching soon! 🚀)
 - [**timebox.so**](https://timebox.so) - Cal Newport inspired deep work planner (July 2024). (#7 on ProductHunt, $1.1K LTM)
 - [**aimlesstheme.com**](https://aimlesstheme.com) - VSCode theme to separate work codebases from side project codebases (Feb 2024). ($14 LTM)
-- [**youshouldworkwith.com**](https://youshouldworkwith.com) - Show who you recommend teaming up with. (Jan 2024). (Hit #1 on HN)
+- [**youshouldworkwith.com**](https://youshouldworkwith.com) - Showcase stars in your personal network. (Jan 2024). (Hit #1 on HN)
 - [**mahendraker.com**](https://mahendraker.com) - My blog and portfolio site (Nov 2023) (100 monthly readers)
 
 ### About Me
