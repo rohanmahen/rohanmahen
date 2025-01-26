@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Rohan Mahendraker
 
-I build enterprise AI products and SaaS indie projects. I'm a self-taught fullstack software engineer, former nightlife operator, frequent Product Hunter, and I have a BSc. in Accounting & Finance. 
+I work at Coloop (YC S21). I'm a self-taught fullstack software engineer, former nightlife operator, frequent Product Hunter, and I have a BSc. in Accounting & Finance. 
 
 ### In my spare time I've shipped 
 
