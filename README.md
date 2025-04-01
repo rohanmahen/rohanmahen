@@ -4,8 +4,8 @@ I'm employee #7 at [Coloop](https://www.coloop.ai) (YC S21) helping build an AI 
 
 ### In my spare time I've shipped 
 
+- [**timebox.so**](https://timebox.so) - Cal Newport inspired deep work planner (Jul 2024). (#7 on ProductHunt, $1.45K LTM)
 - [**toptextbooks.com**](https://toptextbooks.com) - Top textbooks to get ahead in any field (Jan 2025)  
-- [**timebox.so**](https://timebox.so) - Cal Newport inspired deep work planner (Jul 2024). (#7 on ProductHunt, $1.45k LTM)
 - [**aimlesstheme.com**](https://aimlesstheme.com) - VSCode theme to separate work codebases from side project codebases (Feb 2024). ($14 LTM)
 - [**youshouldworkwith.com**](https://youshouldworkwith.com) - Recommend people you think others should work with. (Jan 2024). (Hit #1 on HN)
 - [**mahendraker.com**](https://mahendraker.com) - My blog and portfolio site (Nov 2023) (100 monthly readers)
