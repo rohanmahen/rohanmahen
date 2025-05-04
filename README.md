@@ -10,5 +10,4 @@ I'm employee #7 at [Coloop](https://www.coloop.ai) (YC S21) helping build an AI 
 - [**youshouldworkwith.com**](https://youshouldworkwith.com) - Recommend people you think others should work with. (Jan 2024). (Hit #1 on HN)
 - [**mahendraker.com**](https://mahendraker.com) - My blog and portfolio site (Nov 2023) (100 monthly readers)
 
-### About Me
-Check out my [personal site](https://www.mahendraker.com/) for more on my work, projects, and thoughts.
+> Check out my [personal site](https://www.mahendraker.com/) for more on my work, projects, and thoughts.
