@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Rohan Mahendraker
 
-I'm a founding engineer (employee #7) at [Coloop](https://www.coloop.ai) (YC S21) helping build an AI copilot for insights and strategy teams. I'm a self-taught fullstack software engineer, former nightlife operator, frequent Product Hunter, and I have a degree in Accounting & Finance. 
+I'm a founding engineer at [Coloop](https://www.coloop.ai) (YC S21) helping build an AI copilot for insights and strategy teams. I'm a self-taught fullstack software engineer, former nightlife operator, frequent Product Hunter, and I have a degree in Accounting & Finance. 
 
 ### In my spare time I've shipped 
 
