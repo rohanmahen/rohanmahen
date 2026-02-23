@@ -7,8 +7,8 @@ Previously I was a founding engineer at [CoLoop (YC S21)](https://www.coloop.ai)
 ### In my spare time I've shipped 
 
 - [**toptextbooks.com**](https://toptextbooks.com) - Top textbooks to get ahead in any field (Jan 2025) ($1 LTM in affiliate fees)
-- [**timebox.so**](https://timebox.so) - Cal Newport inspired deep work planner (Jul 2024). (#7 on ProductHunt, $1.8K LTM)
-- [**aimlesstheme.com**](https://aimlesstheme.com) - VSCode theme to separate work codebases from side project codebases (Feb 2024). ($14 LTM)
+- [**timebox.so**](https://timebox.so) - Cal Newport inspired deep work planner (Jul 2024). (#7 on ProductHunt, $2K LTR)
+- [**aimlesstheme.com**](https://aimlesstheme.com) - VSCode theme to separate work codebases from side project codebases (Feb 2024). ($14 LTR)
 - [**youshouldworkwith.com**](https://youshouldworkwith.com) - Recommend people you think others should work with. (Jan 2024). (Hit #1 on HN)
 - [**mahendraker.com**](https://mahendraker.com) - My blog and portfolio site (Nov 2023) (100 monthly readers)
 
