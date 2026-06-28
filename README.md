@@ -1,6 +1,6 @@
 # 🤠 Hi, I’m Rohan Mahendraker
 
-I'm the co-founder and CEO of [Supafax (YC W26)](https://www.supfax.com) - building the best email and calendar assistant. 
+I'm the co-founder and CEO of [Supafax (YC W26)](https://www.supafax.com) - building the best email and calendar assistant. 
 
 Previously I was a founding engineer at [CoLoop (YC S21)](https://www.coloop.ai) helping build an AI copilot for insights and strategy teams. I'm a self-taught software engineer, former nightlife operator, frequent Product Hunter, and I have a degree in Accounting & Finance. 
 
